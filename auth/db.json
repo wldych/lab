@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "Qwerty123",
+      "createdAt": 1700818049089,
+      "id": 1
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "Qwerty123",
+      "createdAt": 1700818139591,
+      "id": 2
+    },
+    {
+      "email": "vlad@gmail.com",
+      "password": "Qwerty123",
+      "createdAt": 1700842490319,
+      "id": 3
+    },
+    {
+      "email": "vlad1@gmail.com",
+      "password": "Qwerty123",
+      "createdAt": 1700843020290,
+      "id": 4
+    },
+    {
+      "email": "vlad123@gmail.com",
+      "password": "A12345678z",
+      "createdAt": 1700985333079,
+      "id": 5
+    },
+    {
+      "email": "Test123@gmail.com",
+      "password": "Test123@gmail.com",
+      "createdAt": 1701555623658,
+      "id": 6
+    }
+  ],
+  "notes": [
+    {
+      "userId": 1,
+      "title": "123123",
+      "text": "12313",
+      "createdAt": 1700818116589,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "2",
+      "text": "2",
+      "createdAt": 1700818119139,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "test2",
+      "text": "test2",
+      "createdAt": 1700818161841,
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "test2",
+      "text": "test2\n",
+      "createdAt": 1700818167173,
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "title": "aldmfgkmdskgskdfngdfgsdfgsdfgsdfg",
+      "text": "sdfgsdfgsdfgsdfglsmdfglmsdf",
+      "createdAt": 1700843092388,
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "title": "123123",
+      "text": "123123",
+      "createdAt": 1700843554112,
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "title": "ASDFKAL;SKDFKLASKDFL;ASKDFLKASLDFKAL;SDKFL;ASKDKLFA;LSDFLKASL;KDFASL;KDFLK;ASKF;KASD;LF",
+      "text": "ASDLFK;ALSKFDL;AKS;LFKA;LSKDFL;AKS;LFKL;ASK;LFKAS;LDKF;LASKFL;KASDLFKADL;SKF;ASLKFL;AKS;DFK;ASLKDF;LKASKL;FKAS;LDFL;ASDLFKL;ASF;LKASKFL;AKSDFKAS;LDF",
+      "createdAt": 1700843646580,
+      "id": 8
+    },
+    {
+      "userId": 5,
+      "title": "1",
+      "text": "1",
+      "createdAt": 1700985375844,
+      "id": 9
+    },
+    {
+      "userId": 5,
+      "title": "2",
+      "text": "2",
+      "createdAt": 1700985378544,
+      "id": 10
+    },
+    {
+      "userId": 6,
+      "title": "1123",
+      "text": "123123",
+      "createdAt": 1701555668205,
+      "id": 11
+    }
+  ]
+}
